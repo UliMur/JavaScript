@@ -1,6 +1,6 @@
 function fizzBuzz(input) {
     if (typeof(input) !== "number") {
-        return "Not a Number");
+        return "Not a Number";
     }
     if (input % 3 === 0) {
         return "Fizz";
