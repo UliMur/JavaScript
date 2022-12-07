@@ -14,5 +14,6 @@ function fizzBuzz(input) {
     return input;
 }
 
+
 const output = fizzBuzz(7);
 console.log(output);
