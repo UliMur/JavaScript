@@ -15,4 +15,4 @@ function move(array, index, offset) {
     arrayCopy.splice(newIndex, 0, element);
 
     return arrayCopy;
-}
+} 
